@@ -4,7 +4,7 @@
 
 <!-- Profile banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Full-Stack%20Developer&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner" /> </p>
 
-<p align="center"> <a href="https://github.com/YOURUSERNAME"> <img src="https://img.shields.io/badge/GitHub-YOURUSERNAME-181717?style=for-the-badge&logo=github" alt="GitHub profile" /> </a> <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-58A6FF?style=for-the-badge" alt="Full-stack developer" /> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" /> </p>
+<p align="center"> <a href="https://github.com/prashantnathyogi16"> <img src="https://img.shields.io/badge/GitHub-YOURUSERNAME-181717?style=for-the-badge&logo=github" alt="GitHub profile" /> </a> <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-58A6FF?style=for-the-badge" alt="Full-stack developer" /> <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" /> </p>
 
 💫 About Me
 
